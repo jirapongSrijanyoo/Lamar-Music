@@ -1,0 +1,14 @@
+// อย่าลืมเปลี่ยน TOKEN_BOT เป็น token ของบอทด้วย
+//เปลี่ยนคำนำหน้าคำสั่งตรงนี้ตามที่ต้องการได้เลย มีคำสั่งสำหรับเปลี่ยนเฉพาะเซิร์ฟเวอร์อีกที
+// lavalink ตรงนี้ไม่ต้องเปลี่ยนนะครับ เป็นเซิร์ฟเวอร์ที่เปิดให้บริการฟรี เอาไปใช้ได้เลย
+{
+  "token": "TOKEN_BOT",
+  "prefix": "pi.", 
+  "lavalink": {
+   "identifier": "JIRAYU_V4",
+   "host": "lavalink.jirayu.net",
+   "password": "youshallnotpass",
+   "port": 13592,
+   "secure": false
+  }
+}
